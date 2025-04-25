@@ -33,18 +33,3 @@ pip install gurobi-optimods
 - [pandas: powerful Python data analysis toolkit](https://pypi.org/project/pandas/)
 - [gurobipy-pandas: Convenience wrapper for building optimization models from pandas data](https://pypi.org/project/gurobipy-pandas/)
 
-## Documentation
-
-Full documentation for `gurobi-optimods` is hosted on [readthedocs](https://gurobi-optimods.readthedocs.io/en/stable).
-
-## License
-
-`gurobi-optimods` is distributed under the terms of the [Apache License 2.0](https://spdx.org/licenses/Apache-2.0.html).
-
-## Contact Us
-
-For questions related to using gurobi-optimods please use the [Gurobi Community Forum](https://support.gurobi.com/hc/en-us/community/topics/10373864542609-GitHub-Projects>).
-
-For reporting bugs, issues and feature requests, specific to `gurobi-optimods`, please [open an issue](https://github.com/Gurobi/gurobi-optimods/issues).
-
-If you encounter issues with Gurobi or `gurobipy` please contact [Gurobi Support](https://support.gurobi.com/hc/en-us).
